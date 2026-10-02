@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I'm Mel Joseph Velasco
 💻I'm currently studying in Central Luzon State University Taking Bachelor of Science and Information Technology<br>💡Love to discover new things<br>📚Eager to learn more, and hungry for knowledge
 
 

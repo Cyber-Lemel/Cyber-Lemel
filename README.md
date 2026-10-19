@@ -1,22 +1,33 @@
-# 💫 About Me: I'm Mel Joseph Velasco
-💻I'm currently studying in Central Luzon State University Taking Bachelor of Science and Information Technology<br>💡Love to discover new things<br>📚Eager to learn more, and hungry for knowledge
+h1 align="center">Mel Joseph Velasco</h1>
+<p align="center">Frontend or full-stack engineer</p>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/galaxy?username=cyber-lemel&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel galaxy visual" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mheljosef0023/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brghtmj ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mel-velasco-4014743a9/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Dofs) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@melj762) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:velascomeljoseph7@gmail.com) 
+<p align="center"><b>9</b> public repositories, <b>1</b> stars, <b>104</b> contributions in the last year, a longest streak of <b>7</b> days and <b>4</b> followers.</p>
 
+## Brightest stars
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Cyber-Lemel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Cyber-Lemel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cyber-Lemel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=cyber-lemel&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel projects visual" />
+</p>
 
+## Elements
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=cyber-lemel&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel stack visual" />
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=Cyber-Lemel&icon=0&color=0)](https://visitcount.itsvg.in)
+## Transmission
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=cyber-lemel&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel social visual" />
+</p>
+
+<p align="center"><a href="https://github.com/cyber-lemel">GitHub</a></p>
+
+<p align="center"><sub>Mel Joseph Velasco · Repo galaxy generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

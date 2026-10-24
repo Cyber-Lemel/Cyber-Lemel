@@ -1,4 +1,4 @@
-<h1 align="center">Mel Joseph Velasco</h1>
+<h1 align="center"><b>Mel Joseph Velasco</b></h1>
 <p align="center">Frontend or full-stack engineer</p>
 
 <p align="center">

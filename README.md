@@ -1,18 +1,12 @@
 <div align="center">
 
-# Mel Joseph Velasco
-
-> Technical founder
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=cyber-lemel&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel hero visual" />
 </p>
 
 </div>
 
-## The point of view
-
-> A curios mind that wants to build everything
+> A curios mind that is hungry for knowledge
 
 - 📍 Based in **Philippines**
 - 👥 **4** followers · **4** following

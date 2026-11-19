@@ -1,36 +1,48 @@
-<h1 align="center"><b>Mel Joseph Velasco</b></h1>
-<p align="center">Frontend or full-stack engineer</p>
+<div align="center">
+
+# Mel Joseph Velasco
+
+> Technical founder
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=cyber-lemel&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel galaxy visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=cyber-lemel&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel hero visual" />
 </p>
 
-<p align="center"><b>9</b> public repositories, <b>1</b> stars, <b>104</b> contributions in the last year, a longest streak of <b>7</b> days and <b>4</b> followers.</p>
+</div>
 
-## Brightest stars
+## The point of view
+
+> A curios mind that wants to build everything
+
+- 📍 Based in **Philippines**
+- 👥 **4** followers · **4** following
+
+*Small, useful work over vague claims.*
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Cyber-Lemel/Dino_Block_Game">Dino_Block_Game</a></b></td><td>A 2d fast paced Dinosaur retro game built using OOP principles in Java, inspired by the game Varmitz<br/><sub>Java · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Cyber-Lemel/Inventory-Management-System">Inventory-Management-System</a></b></td><td>A Inventory system with sorting capability base on categories and can track sales<br/><sub>PHP · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Cyber-Lemel/Inventory_-_Sales_Tracking">Inventory_-_Sales_Tracking</a></b></td><td>A inventory management system with sorting features based on category and sale tracker<br/><sub>PHP · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Cyber-Lemel/OnePiece_AllocationSystem">OnePiece_AllocationSystem</a></b></td><td>A Anime One-Piece Theme Memory Allocation System<br/><sub>JavaScript · 0 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>10</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>127</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=cyber-lemel&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel projects visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=cyber-lemel&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel social visual" />
 </p>
 
-## Elements
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=cyber-lemel&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel stack visual" />
-</p>
-
-## Transmission
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=cyber-lemel&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F293604875%3Fu%3Dd8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5%26v%3D4" alt="cyber-lemel social visual" />
-</p>
-
-<p align="center"><a href="https://github.com/cyber-lemel">GitHub</a></p>
-
-<p align="center"><sub>Mel Joseph Velasco · Repo galaxy generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<a href="https://github.com/cyber-lemel">GitHub</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyber-Lemel/Cyber-Lemel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyber-Lemel/Cyber-Lemel/output/github-snake.svg" />
